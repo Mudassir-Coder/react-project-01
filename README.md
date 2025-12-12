@@ -39,16 +39,10 @@ Run the development server:
 npm run dev
 
 # OR
-
 yarn start
 
 Your application should now be running on http://localhost:3000 (or similar, depending on your environment).
 
-🌐 Live Demo
-
-See the project in action on a live hosting platform!
-
-Live Site: [https://mudassir-coder.github.io/react-project-01/]
 
 🤝 Connect with Me
 
