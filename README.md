@@ -18,7 +18,12 @@ Implementation of subtle hover effects and modern layout features commonly found
 
 🚀 Getting Started
 
-Follow these steps to set up and run the Nike Landing Page clone locally on your machine.PrerequisitesMake sure you have Node.js and npm (or Yarn) installed.InstallationClone the repository:Bashgit clone https://github.com/Mudassir-
+Follow these steps to set up and run the Nike Landing Page clone locally on your machine.Prerequisites
+Make sure you have Node.js and npm (or Yarn) installed.
+
+Installation
+
+Clone the repository:git clone https://github.com/Mudassir-
 Coder/react-project-01.git
 
 Navigate to the project directory:
