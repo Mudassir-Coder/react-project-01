@@ -23,8 +23,7 @@ Make sure you have Node.js and npm (or Yarn) installed.
 
 Installation
 
-Clone the repository:git clone https://github.com/Mudassir-
-Coder/react-project-01.git
+Clone the repository:git clone https://github.com/Mudassir-Coder/react-project-01.git
 
 Navigate to the project directory:
 cd nike-react-clone
@@ -49,7 +48,7 @@ Your application should now be running on http://localhost:3000 (or similar, dep
 
 See the project in action on a live hosting platform!
 
-Live Site: [YOUR_DEPLOYMENT_LINK_HERE]
+Live Site: [https://mudassir-coder.github.io/react-project-01/]
 
 🤝 Connect with Me
 
